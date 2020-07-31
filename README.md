@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Alex </h1>
 <h3 align="center">A passionate JavaScript Developer (Node.js, Angular 10, React)  </h3>
 
-![image](https://media.giphy.com/media/26AHs3p7U7H5MU2gU/giphy.gif){:height="50%" width="50%"}
+<img src="https://media.giphy.com/media/26AHs3p7U7H5MU2gU/giphy.gif" width="100" height="100">
 
 <p align="center">
  <img src="https://img.icons8.com/nolan/64/js.png" alt="git" width="20" height="20"/> 
