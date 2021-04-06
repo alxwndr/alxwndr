@@ -2,9 +2,11 @@
 <!--
 **alxwndr/alxwndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
+
 <h1 align="center">Hi 👋, I'm Alex </h1>
 <h3 align="center">A passionate JavaScript Developer (Node.js, Angular 10, React)  </h3>
+
+-->
 
 <img src="https://media.giphy.com/media/26AHs3p7U7H5MU2gU/giphy.gif" width="100" height="100">
 
