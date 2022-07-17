@@ -10,7 +10,7 @@
 - 👯 You can read my personal blog on [hashnode.dev/](https://avocadev.hashnode.dev/)
 - 🐦 You can follow me on Twitter [@dev_avocado](https://twitter.com/dev_avocado)
 
-<img src="https://media.giphy.com/media/26AHs3p7U7H5MU2gU/giphy.gif" width="75" height="75">
+<img src="https://media.giphy.com/media/26AHs3p7U7H5MU2gU/giphy.gif" width="45" height="45">
 
 <!--
 <p align="center">
