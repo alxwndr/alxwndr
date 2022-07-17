@@ -1,12 +1,14 @@
 
 <!--
 **alxwndr/alxwndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h3 align="left">Connect with me:</h3>
+-->
 
 <h1 align="center">Hi 👋, I'm Alex </h1>
-<h3 align="center">A passionate JavaScript Developer (Node.js, Angular 10, React)  </h3>
+<h3 align="center">A passionate JavaScript Developer  </h3>
 
--->
+- 👯 You can read my personal blog on [hashnode.dev/](https://avocadev.hashnode.dev/)
+- 🐦 You can follow me on Twitter [@dev_avocado](https://twitter.com/dev_avocado)
 
 <img src="https://media.giphy.com/media/26AHs3p7U7H5MU2gU/giphy.gif" width="75" height="75">
 
