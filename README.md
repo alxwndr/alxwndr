@@ -1,9 +1,6 @@
 
 <!--
 **alxwndr/alxwndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h3 align="left">Connect with me:</h3>
-
-
 <h1 align="center">Hi 👋, I'm Alex </h1>
 <h3 align="center">A passionate JavaScript Developer  </h3>
 
@@ -13,13 +10,29 @@
 
 <img src="https://media.giphy.com/media/26AHs3p7U7H5MU2gU/giphy.gif" width="55" height="55">
 
-<!--
-<p align="center">
- <img src="https://img.icons8.com/nolan/64/js.png" alt="git" width="20" height="20"/> 
-  <img src="https://img.icons8.com/nolan/64/angularjs.png" alt="git" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
-  </p>
--->
+
+
+
+<!--  
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/26AHs3p7U7H5MU2gU/giphy.gif" width="75" height="75">
+  <h1 align="center">Hi there 👋</h1>
+</div>
+
+<div align="center">
+<a target="_blank" href="https://www.linkedin.com/in/!!!!!!!!!/">
+  <img alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://twitter.com/!!!!!!!!!">
+  <img  alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a target="_blank" href="https://hashnode.!!!!!!!!">
+  <img  alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
+</a>
+<a target="_blank" href="mailto:!!!!!!!!!@gmail.com">
+  <img  alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+</div>
+
+  -->
