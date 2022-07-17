@@ -21,16 +21,16 @@
 
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/!!!!!!!!!/">
-  <img alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://twitter.com/!!!!!!!!!">
-  <img  alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img  alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />
 </a>
 <a target="_blank" href="https://hashnode.!!!!!!!!">
-  <img  alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
+  <img  alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hashnode.svg" />
 </a>
 <a target="_blank" href="mailto:!!!!!!!!!@gmail.com">
-  <img  alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img  alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />
 </a>
 
 </div>
